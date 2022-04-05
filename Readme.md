@@ -1,0 +1,1 @@
+Olá esse projeto tem como objetivo me ensinar a usar o Git
